@@ -87,7 +87,7 @@ export default function Home() {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <div className="flex items-center gap-3">
-              <img src="logo.png" className='h-10' />
+              <img src="logo.png" alt="StratSync Logo" className='h-10' />
             </div>
 
             {/* Desktop Navigation */}
