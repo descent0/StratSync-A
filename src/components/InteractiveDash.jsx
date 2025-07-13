@@ -88,7 +88,7 @@ export default function DashboardPreview() {
 
       {/* Footer */}
       <div className="text-center text-sm text-gray-700 dark:text-gray-400 mt-4">
-        Live stats powered by Agetic AI
+        Live stats powered by Agentic AI
       </div>
     </div>
   );
